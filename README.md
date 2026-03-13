@@ -1,6 +1,6 @@
 # Word Length Histogram
 
-A Python program that reads a text file, analyzes the lengths of words in the text, and visualizes the results as a histogram using the TPlot graphics library.
+A Python program that reads a text file, analyses the lengths of words in the text, and visualises the results as a histogram using the TPlot graphics library.
 
 The program processes the text by removing punctuation, converting all words to lowercase, and counting how many words occur at each length. The results are displayed graphically as a histogram where:
 
@@ -8,13 +8,13 @@ X-axis: Word length (number of characters)
 
 Y-axis: Frequency of words with that length
 
-This project demonstrates text preprocessing, data analysis, and graphical visualization in Python.
+This project demonstrates text preprocessing, data analysis, and graphical visualisation in Python.
 
 # Features
 
 - Reads text from a file
 
-- Removes punctuation and normalizes case
+- Removes punctuation and normalises case
 
 - Counts the frequency of each word length
 
@@ -66,7 +66,7 @@ This project demonstrates:
 
 - Dictionaries and counting algorithms
 
-- Basic data visualization
+- Basic data visualisation
 
 - Modular program design
 
