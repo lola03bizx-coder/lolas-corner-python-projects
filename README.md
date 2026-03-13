@@ -12,19 +12,19 @@ This project demonstrates text preprocessing, data analysis, and graphical visua
 
 # Features
 
-Reads text from a file
+- Reads text from a file
 
-Removes punctuation and normalizes case
+- Removes punctuation and normalizes case
 
-Counts the frequency of each word length
+- Counts the frequency of each word length
 
-Displays results as a graphical histogram
+- Displays results as a graphical histogram
 
-Automatically scales axes based on the data
+- Automatically scales axes based on the data
 
-Uses multiple colours to distinguish bars
+- Uses multiple colours to distinguish bars
 
-Displays axis labels, title, and legend
+- Displays axis labels, title, and legend
 
 # How It Works
 
@@ -46,40 +46,40 @@ Word Length Counts: {1: 5, 2: 12, 3: 18, 4: 9, 5: 7}
 
 The histogram includes:
 
-Colored bars representing word length frequency
+- Colored bars representing word length frequency
 
-Word length labels on the X-axis
+- Word length labels on the X-axis
 
-Frequency values on the Y-axis
+- Frequency values on the Y-axis
 
-Counts displayed above each bar
+- Counts displayed above each bar
 
-Legend explaining the graph
+- Legend explaining the graph
 
 # Learning Goals
 
 This project demonstrates:
 
-File handling in Python
+- File handling in Python
 
-Text preprocessing
+- Text preprocessing
 
-Dictionaries and counting algorithms
+- Dictionaries and counting algorithms
 
-Basic data visualization
+- Basic data visualization
 
-Modular program design
+- Modular program design
 
-Graphics with TPlot
+- Graphics with TPlot
 
 # What's next?
 
-Support for large text datasets
+- Support for large text datasets
 
-Export histogram as an image
+- Export histogram as an image
 
-Interactive UI for selecting files
+- Interactive UI for selecting files
 
-Additional text statistics (average word length, most common length)
+- Additional text statistics (average word length, most common length)
 
-Option to plot other distributions (word frequency, sentence length)
+- Option to plot other distributions (word frequency, sentence length)
